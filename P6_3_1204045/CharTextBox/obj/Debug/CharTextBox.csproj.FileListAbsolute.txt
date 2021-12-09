@@ -1,0 +1,5 @@
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\CharTextBox\bin\Debug\CharTextBox.dll
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\CharTextBox\bin\Debug\CharTextBox.pdb
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\CharTextBox\obj\Debug\CharTextBox.csproj.CoreCompileInputs.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\CharTextBox\obj\Debug\CharTextBox.dll
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\CharTextBox\obj\Debug\CharTextBox.pdb

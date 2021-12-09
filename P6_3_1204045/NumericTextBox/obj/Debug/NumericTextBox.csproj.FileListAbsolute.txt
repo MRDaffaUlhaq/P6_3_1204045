@@ -1,0 +1,6 @@
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\NumericTextBox\bin\Debug\NumericTextBox.dll
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\NumericTextBox\bin\Debug\NumericTextBox.pdb
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\NumericTextBox\obj\Debug\NumericTextBox.csproj.AssemblyReference.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\NumericTextBox\obj\Debug\NumericTextBox.csproj.CoreCompileInputs.cache
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\NumericTextBox\obj\Debug\NumericTextBox.dll
+A:\KULIAH\Semester III\pemrogramanII\P6_3_1204045\NumericTextBox\obj\Debug\NumericTextBox.pdb

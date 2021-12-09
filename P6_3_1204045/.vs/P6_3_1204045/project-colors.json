@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "789e4244-00a9-48f2-975b-20217a8572b0": {
+      "ProjectGuid": "789e4244-00a9-48f2-975b-20217a8572b0",
+      "DisplayName": "P6_3_1204045",
+      "ColorIndex": 0
+    },
+    "aa482186-b899-4a6d-bbf5-21f83dded2bd": {
+      "ProjectGuid": "aa482186-b899-4a6d-bbf5-21f83dded2bd",
+      "DisplayName": "NumericTextBox",
+      "ColorIndex": 1
+    },
+    "5a54ea4a-61b7-4c36-b04c-4266a1d111b3": {
+      "ProjectGuid": "5a54ea4a-61b7-4c36-b04c-4266a1d111b3",
+      "DisplayName": "CharTextBox",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
